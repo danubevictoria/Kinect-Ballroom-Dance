@@ -1,0 +1,73 @@
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.exe
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.baml
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\App.g.cs
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance_MarkupCompile.cache
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.g.resources
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.Properties.Resources.resources
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.exe
+C:\Users\Timmy\Desktop\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.pdb
+C:\Users\Rohan\Downloads\KinectBallroomDance(1)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.exe
+C:\Users\Rohan\Downloads\KinectBallroomDance(1)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.exe
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.exe
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.baml
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\App.g.cs
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance_MarkupCompile.cache
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.g.resources
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.Properties.Resources.resources
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Timmy\Desktop\KinectBallroomDance (2)\KinectBallroomDance (1)\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.exe
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.exe
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.baml
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\App.g.cs
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance_MarkupCompile.cache
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.g.resources
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.Properties.Resources.resources
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Timmy\Desktop\KinectBallroomDance\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.exe
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.pdb
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.exe
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\bin\Debug\KinectBallroomDance.pdb
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.baml
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\App.g.cs
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance_MarkupCompile.cache
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.g.resources
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\KinectBallroomDance.Properties.Resources.resources
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dantan\Documents\Visual Studio 2010\Projects\KinectBallroomDance\KinectBallroomDance\obj\x86\Debug\GenerateResource.write.1.tlog

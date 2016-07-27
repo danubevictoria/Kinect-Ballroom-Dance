@@ -1,0 +1,50 @@
+﻿<Window x:Class="KinectBallroomDance.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect Ballroom Dance" Height="768" Width="910" Loaded="Window_Loaded" Closing="WindowClosing" xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers">
+    <Canvas Height="720" Width="880" Name="wrapper">
+        <my:KinectSensorChooser Name="sensorChooser" Width="880" Height="720" Canvas.Left="-916" Canvas.Top="0" />
+        <Canvas Height="720" Width="880" Name="app" Visibility="Hidden">
+            <my:KinectSkeletonViewer Canvas.Left="21" Canvas.Top="400" Name="kinectSkeletonViewer1" Height="300" Width="400" Kinect="{Binding ElementName=sensorChooser, Path=Kinect}" Visibility="Hidden" />
+            <Ellipse Canvas.Left="64" Canvas.Top="285" Height="60" Name="leftfoot" Stroke="Black" Width="30" Fill="Black" Visibility="Hidden" />
+            <Ellipse Canvas.Left="128" Canvas.Top="285" Height="60" Name="rightfoot" Stroke="Black" Width="30" Fill="Black" Visibility="Hidden" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="75" Name="uparrow" Stretch="Fill" Width="50" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/straightarrowup.jpg" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="100" Name="curveupleftarrow" Stretch="Fill" Width="100" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/curvedarrowleft.png" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="50" Name="leftarrow" Stretch="Fill" Width="50" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/straightarrowleft.jpg" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="50" Name="rightarrow" Stretch="Fill" Width="50" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/straightarrowright1.jpg" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="30" Name="cwturnarrow" Stretch="Fill" Width="30" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/cwturnarrow.png" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="30" Name="ccwturnarrow" Stretch="Fill" Width="30" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/ccwturnarrow.png" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="30" Name="crossrightarrow" Stretch="Fill" Width="100" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/crossrightarrow.png" />
+            <Image Canvas.Left="183" Canvas.Top="172" Height="30" Name="crossleftarrow" Stretch="Fill" Width="100" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/crossleftarrow.png" />
+            <Image Name="posturepause" Width="880" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/posturepause.jpg" Canvas.ZIndex="99" />
+            <Image Name="dancepause"  Width="880" Visibility="Hidden" Source="/KinectBallroomDance;component/Images/dancepause.jpg" Canvas.ZIndex="99" />
+            <Border BorderBrush="Silver" BorderThickness="5" Canvas.Left="20" Canvas.Top="20" Height="350" Name="border1" Width="400" Visibility="Hidden" />
+            <Border BorderBrush="Silver" BorderThickness="5" Canvas.Left="470" Canvas.Top="20" Height="100" Name="border2" Width="400">
+                <TextBlock Text="Posture" Height="90" Name="label1" Width="390" FontSize="20" TextAlignment="Center" TextWrapping="Wrap"/>
+            </Border>
+            <Border BorderBrush="Silver" BorderThickness="5" Canvas.Left="470" Canvas.Top="145" Height="100" Name="border3" Width="400">
+                <TextBlock Text="Dance Figure" Height="90" Name="label2" Width="390" FontSize="20" TextAlignment="Center" TextWrapping="Wrap" />
+            </Border>
+            <Border BorderBrush="Silver" BorderThickness="5" Canvas.Left="470" Canvas.Top="270" Height="100" Name="border4" Width="400">
+                <TextBlock Text="Other" Height="90" Name="label3" Width="390" FontSize="20" TextAlignment="Center" TextWrapping="Wrap"/>
+            </Border>
+            <Border BorderBrush="Silver" BorderThickness="1" Canvas.Left="470" Canvas.Top="400" Height="300" Name="border6" Width="400">
+                <TextBlock Text="INSTRUCTIONAL VIDEO" Height="90" Name="label99" Width="390" FontSize="20" TextAlignment="Center" TextWrapping="Wrap"/>
+                
+            </Border>
+            <Border BorderBrush="Silver" BorderThickness="1" Canvas.Left="-230" Canvas.Top="25" Height="675" Name="border5" Width="900">
+                <Border.Clip>
+                    <RectangleGeometry Rect="250, 0, 400, 675"/>
+                </Border.Clip>
+                <my:KinectColorViewer Name="CameraVideo" Width="900" Height="675" Kinect="{Binding ElementName=sensorChooser, Path=Kinect}"></my:KinectColorViewer>
+            </Border>
+
+        </Canvas>
+        <Canvas Height="720" Width="880" Name="menu" Visibility="Visible">
+            <Image Source="menu_title.jpg" Name="menuImage" Width="880"/>
+            <Rectangle Height="99"  Width="167" Opacity="0.5" Name="rectangle1" Stroke="Blue" Canvas.Left="175" Canvas.Top="262" StrokeThickness="1" Fill="Blue" />
+            <Image Source="no_sign.jpg" Name="canSeePic" Width="140" Canvas.Left="6" Canvas.Top="574"/>
+
+        </Canvas>
+    </Canvas>
+</Window>
